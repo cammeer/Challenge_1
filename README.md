@@ -10,7 +10,7 @@ Simple static page and code refactor project using HTML and CSS.
 ## General info
 This project is the first assignment from the full stack coding bootcamp program at UNC Chapel Hill. The assignment began with starter code, and we were instructed to refactor the code based on a user story, acceptance criteria, and grading requirements. Main refactors and skills demonstrated included: ensuring links were functional, consolidating CSS, and using semantic HTML. 
 
-![Horiseon project sample](/images/Horiseon-screenshot.png)
+![Horiseon project sample](Horiseon-screenshot.png)
     
 ## Technologies
 Project is created with:
