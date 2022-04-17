@@ -5,7 +5,7 @@ Simple static page and code refactor project using HTML and CSS.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Launch](#launch)
-* [FYIs: User Story, Acceptance Criteria, and Grading Requirements] (#FYIs)
+* [Requirements](#requirements)
 
 ## General info
 This project is the first assignment from the full stack coding bootcamp program at UNC Chapel Hill. The assignment began with starter code, and we were instructed to refactor the code based on a user story, acceptance criteria, and grading requirements. Main refactors and skills demonstrated included: ensuring links were functional, consolidating CSS, and using semantic HTML. 
@@ -18,9 +18,9 @@ Project is created with:
 * CSS
     
 ## Launch
-To launch this site, click here
+To launch this site, [click here](https://cammeer.github.io/Challenge_1/)
 
-## FYIs
+## Requirements
 
 ### User Story
 AS A marketing agency
@@ -31,27 +31,22 @@ SO THAT our own site is optimized for search engines
 
 GIVEN a webpage meets accessibility standards
 
-WHEN I view the source code
+WHEN I view the source code  
+THEN I find semantic HTML elements  
 
-THEN I find semantic HTML elements
-
-WHEN I view the structure of the HTML elements
-
+WHEN I view the structure of the HTML elements  
 THEN I find that the elements follow a logical structure independent of styling and positioning
 
-WHEN I view the image elements
-
+WHEN I view the image elements  
 THEN I find accessible alt attributes
 
-WHEN I view the heading attributes
-
+WHEN I view the heading attributes  
 THEN they fall in sequential order
 
-WHEN I view the title element
-
+WHEN I view the title element  
 THEN I find a concise, descriptive title
 
-###Grading Requirements
+### Grading Requirements
 
 This challenge is graded based on the following criteria:
 
